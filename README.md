@@ -1,6 +1,6 @@
-# BIENVENIDO A FREEGEN
+# BIENVENIDO A SNUGYZZ GEN
 
-Con FreeGen podrás tener tu propio generador de tarjetas personalizado y online con **Github Pages.**
+Con SNUGYZZ GEN podrás tener tu propio generador de tarjetas personalizado y online con **Github Pages.**
 
 ## PREVIEW de como quedaría:
 ![enter image description here](https://i.imgur.com/Cyk9TCf.png)
@@ -121,19 +121,6 @@ Si tu generador dejó de funcionar luego de modificarlo, significa que borraste 
 > créditos por ejemplo) me temo que el generador estaba preparado para
 > eso y no se ejecutarán sus funciones.**
 
-
-# Créditos:
-
-Todo el desarrollo, modificación, colores, y **tiempo** fueron con dedicación por **[Sergio Yael Massieu](https://www.facebook.com/yaelmassieuwu)**, dueño de [**Stery**](https://stery.dev) y programador en ratos libres. Siempre he pensado que si hay conocimiento, hay que esparcirlo al resto de personas, no nos quita nada compartir con los demás.
-
-Si llegaste hasta aquí, muchas gracias. Si quieres realizar una donación o un reconocimiento, puedes escribirme al correo:
-yaeldev@tutanota.com
-
-**De nuevo gracias y espero valoren el esfuerzo y tiempo que me tomó hacer todo esto para ustedes** 💕
-
-Mis otras redes:
-
- - **[Telegram](https://t.me/steryoff)**
- - [**Instagram**](https://instagram.com/yaelmassieuwu)
-  - [**Github**](https://github.com/bystrokr)
-  - [**Twitter**](https://twitter.com/yaelmassieuwu)
+$CREDITOS 
+BRIAN ISAAC SALAS RANGEL 
+#DESAROLLADOR ISAAC SALAS RANGEL
